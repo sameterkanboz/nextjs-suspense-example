@@ -1,3 +1,4 @@
+"use client";
 import { Suspense } from "react";
 import Changer from "../../components/changer";
 import SocialPosts from "../../components/post";
